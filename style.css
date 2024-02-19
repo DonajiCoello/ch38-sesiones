@@ -1,0 +1,15 @@
+/* Hoja de estilo personalizada */
+
+/* selector de etiquetas */
+/* hay herencia va del padre a hijo y entre más
+especifico se queda con eso ultimo
+*/
+body {background-color: palevioletred;
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+main{
+    text-align: center;
+}
